@@ -1,4 +1,4 @@
-# facerecognition
+# Face Recognition
 
 
 Face recognition with three differents training methods using webcam (Eigen Faces, Fisher Faces and LBPH)
