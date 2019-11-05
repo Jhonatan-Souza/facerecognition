@@ -5,7 +5,7 @@ Face recognition with three different training methods using webcam (Eigen Faces
 
 First run <b>to_take_pictures .py</b>  to create the webcam database by taking pictures of yourself and someone else (needs to have two different people). Press Q to take a picture.
 
-After creating a database run <b>training.py</b> to train. 
+After creating a database run <b>training.py</b> for training. 
 
 And then run the recognizers <b>(eigenfaces_recognition.py / fisherfaces_recognition.py / lbph_recognition.py)</b>
 
