@@ -1,7 +1,7 @@
 # facerecognition
 
 
-Face recognition with three different training methods using webcam (Eigen Faces, Fisher Faces and LBPH)
+Face recognition with three differents training methods using webcam (Eigen Faces, Fisher Faces and LBPH)
 
 First run <b>to_take_pictures .py</b>  to create the webcam database by taking pictures of yourself and someone else (needs to have two different people). Press Q to take a picture.
 
